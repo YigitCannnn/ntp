@@ -1,0 +1,6 @@
+@NTP.Persistance_HostAddress = http://localhost:5014
+
+GET {{NTP.Persistance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
